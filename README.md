@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**jermoroz/jermoroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm glad you're looking at my profile. I'm Jeremiasz and ...
 
-Here are some ideas to get you started:
+💡 About Me
+- 🔭 I’m currently working on Calculus Survivor
+- 💬 Ask me about everything you want!
+- 📫 How to reach me: jermor@vp.pl 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Technologies and Tools
+
+Programming Languages I usually use:
+
+ - JavaScript, Python, C++
+
+🤝 Collaboration
+
+If you have an idea for a project I can contribute to, let me know! 🚀
