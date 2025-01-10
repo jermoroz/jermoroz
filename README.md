@@ -2,6 +2,8 @@
 
 I'm glad you're looking at my profile. I'm Jeremiasz and ...
 
+That's link to my website -> https://jermoroz.github.io
+
 💡 About Me
 - 🔭 I’m currently working on Calculus Survivor
 - 💬 Ask me about everything you want!
